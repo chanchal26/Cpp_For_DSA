@@ -1,0 +1,1 @@
+Size of MyClass object: 8 bytes
